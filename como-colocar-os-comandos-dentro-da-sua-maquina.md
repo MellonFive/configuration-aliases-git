@@ -1,0 +1,1 @@
+## Dentro da pasta raiz do seu linux ou mac, criar o arquivo .gitconfig e colocar os aliases dentro do arquivo.
